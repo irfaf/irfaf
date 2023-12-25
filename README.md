@@ -2,10 +2,11 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me .
 
-<!---
-irfaf/irfaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+- INSTALL LING PSHINGHING
+- pkg install update && pkg install upgrade -y
+- pkg install python
+- git clone https://github.com/irfaf/irfaf
+- cd irfaf
+- python irfaf.py
